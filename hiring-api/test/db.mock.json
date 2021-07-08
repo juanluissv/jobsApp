@@ -1,0 +1,72 @@
+{
+  "User": [
+    { "email": "test01@mail.com"},
+    { "email": "test02@mail.com"},
+    { "email": "test03@mail.com"},
+    { "email": "test04@mail.com"},
+    { "email": "test05@mail.com"},
+    { "email": "test06@mail.com"}, 
+    { "email": "test07@mail.com"},
+    { "email": "test08@mail.com"},
+    { "email": "test09@mail.com"},
+    { "email": "test10@mail.com"},
+    { "email": "test11@mail.com"}
+  ],
+  "Country": [
+    { "name": "Argentina", "code": "AR" },
+    { "name": "Chile", "code": "CL" },
+    { "name": "Brasil", "code": "BR" },
+    { "name": "Colombia", "code": "CO" },
+    { "name": "Mexico", "code": "MX" },
+    { "name": "Peru", "code": "PE" },
+    { "name": "Uruguay", "code": "UY" },
+    { "name": "Paraguay", "code": "PY" },
+    { "name": "Venezuela", "code": "VE" },
+    { "name": "Ecuador", "code": "EC" },
+    { "name": "Bolivia", "code": "BO" },
+    { "name": "Guatemala", "code": "GT" },
+    { "name": "El Salvador", "code": "SV" },
+    { "name": "Panama", "code": "PA" },
+    { "name": "Honduras", "code": "HN" },
+    { "name": "Costa Rica", "code": "CR" }
+  ],
+  "Job": [
+    {"name": "jefe","requirements": "requirements1","full_time":true ,"presency":"full_presency", "condition": "volunteer", "countryId": 1},
+    {"name": "jefe de empleados","requirements": "requirements2","full_time":true ,"presency":"full_presency", "condition": "volunteer", "countryId": 2},
+    {"name": "administracion","requirements": "administrar","full_time":true ,"presency":"semi_presency", "condition": "contract", "countryId": 3},
+    {"name": "atencion al cliente y administracion", "requirements": "requirements4", "full_time":true ,"presency":"full_presency","condition": "contract", "countryId": 4},
+    {"name": "seguridad","requirements": "atencion","full_time":true ,"presency":"remote", "condition": "contract", "countryId": 5},
+    {"name": "lider de ventas","requirements": "requirements6","full_time":true ,"presency":"full_presency", "condition": "contract", "countryId": 6},
+    {"name": "ventas y atención al publico","requirements": "postulation", "full_time":true ,"presency":"full_presency","condition": "contract", "countryId": 7},
+    {"name": "zireccion general","requirements": "postulation", "full_time":true ,"presency":"remote", "condition": "volunteer", "countryId": 1},
+    {"name": "postulation9","requirements": "direcion", "full_time":false ,"presency":"full_presency", "condition": "volunteer", "countryId": 1},
+    {"name": "postulation10","requirements": "seguridad", "full_time":true ,"presency":"full_presency", "condition": "volunteer", "countryId": 1},
+    {"name": "postulation11","requirements": "ventas", "full_time":true ,"presency":"full_presency", "condition": "volunteer", "countryId": 2}
+  ],
+  "Tag": [
+    { "name": "Dirección General", "code": "DG" },
+    { "name": "Direccion Regional", "code": "DR" },
+    { "name": "Desarrollo de Fondos", "code": "DF" },
+    { "name": "Voluntariado y Personas", "code": "VP" },
+    { "name": "Comunicaciones", "code": "COM" },
+    { "name": "Administración y Finanzas", "code": "AF" },
+    { "name": "Tecnologia", "code": "TEC" },
+    { "name": "Juridico", "code": "JUR" },
+    { "name": "Gestión Comunitaria/Territorial", "code": "GC/T" },
+    { "name": "Vivienda y Habitat", "code": "VH" }
+  ],
+  "ExampleUser": [
+    { "email": "test01@mail.com", "firstName": "test01", "lastName": "user01" },
+    { "email": "test02@mail.com", "firstName": "test02", "lastName": "user02" },
+    { "email": "test03@mail.com", "firstName": "test03", "lastName": "user03" },
+    { "email": "test04@mail.com", "firstName": "test04", "lastName": "user04" },
+    { "email": "test05@mail.com", "firstName": "test05", "lastName": "user05" },
+    { "email": "test06@mail.com", "firstName": "test06", "lastName": "user06" },
+    { "email": "test07@mail.com", "firstName": "test07", "lastName": "user07" },
+    { "email": "test08@mail.com", "firstName": "test08", "lastName": "user08" },
+    { "email": "test09@mail.com", "firstName": "test09", "lastName": "user09" },
+    { "email": "test10@mail.com", "firstName": "test10", "lastName": "user10" },
+    { "email": "test11@mail.com", "firstName": "test11", "lastName": "user11" }
+  ]
+}
+

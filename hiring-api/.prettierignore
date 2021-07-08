@@ -1,0 +1,4 @@
+dist
+node_modules
+
+src/server/static/api-explorer/swagger-ui*
