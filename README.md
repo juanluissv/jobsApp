@@ -1,6 +1,6 @@
 <h2> Jobs App </h2>
 <p>
-  <img src="https://stormy-escarpment-10471.herokuapp.com/images/screen.png" />
+  <img src="https://stormy-escarpment-10471.herokuapp.com/images/screen.png" /> 
  </p>
 
 <p> Job listing application for made with React Redux Node JS Express JS and PostgreSQL </p>
